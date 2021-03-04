@@ -1,4 +1,4 @@
-### Hi there👋 I'm Jesse...welcome to my GitHub and thanks for stopping by!
+### Hi there 👋 I'm Jesse...welcome to my GitHub and thanks for stopping by!
 
 - 🔭 I’m currently working on ... Frontend Mentor challenges
 - 🌱 I’m currently learning ... Adding React to existing websites
