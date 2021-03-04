@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on ... MERN projects
 - 🤔 I’m looking for help with ... Contributing to Open Source
 - 💬 Ask me about ... Anything!
-- 📫 How to reach me: ... [GitHub](http://codebyronda.com)
+- 📫 How to reach me: ... [codebyronda.com](http://codebyronda.com)
